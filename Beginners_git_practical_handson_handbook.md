@@ -1,11 +1,11 @@
 The GIT handbook
 ================
 
-_Create a github account. Set up your username and email._
-_Download and install git on your system._
-_Open terminal and run:_
-	git config --global user.name "Your name here"
-	git config --global user.email "your_email@example.com"
+- _Create a github account. Set up your username and email._
+- _Download and install git on your system._
+- _Open terminal and run:_
+	- _git config --global user.name "Your name here"_
+	- _git config --global user.email "your_email@example.com"_
 
 0. _.gitingnore file_
 	- The various files in your project directory that you’re not tracking in git should be indicated in a .gitignore file.
