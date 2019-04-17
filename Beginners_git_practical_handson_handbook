@@ -1,6 +1,9 @@
-Create a github account. Set up your username and email.
-Download and install git on your system.
-Open terminal and run:
+The GIT handbook
+================
+
+_Create a github account. Set up your username and email._
+_Download and install git on your system._
+_Open terminal and run:_
 	git config --global user.name "Your name here"
 	git config --global user.email "your_email@example.com"
 
